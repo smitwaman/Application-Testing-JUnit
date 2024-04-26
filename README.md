@@ -1,2 +1,2 @@
-# Application-Testing-JUnit.md
+# Application-Testing-JUnit
 Junit tool
